@@ -50,4 +50,4 @@ public class MyApplication {
 
 빌링키 발급 항목은
 
-[`{project}/src/test/java/com.ziponia.iamport.IamportApplicationTests.java`] 파일을 참고하세요.
+[`{project}/src/test/java/com.ziponia.iamport.IamportApplicationTests.java`](https://github.com/ziponia/iamport-rest/blob/master/src/test/java/com/ziponia/iamport/IamportApplicationTests.java) 파일을 참고하세요.
